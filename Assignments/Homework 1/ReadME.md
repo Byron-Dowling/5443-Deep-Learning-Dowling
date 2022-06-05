@@ -1,8 +1,8 @@
-Names:      Byron Dowling and Israel Olaemimimo\n
-Class:      Deep Learning\n
-Semster:    Summer 1 2022\n
-Date:       6/2/22\n
-Assignment: Homework 1\n
+## Assignment: Homework 1
+### Names:      Byron Dowling and Israel Olaemimimo
+### Class:      Deep Learning
+### Semster:    Summer 1 2022
+### Date:       6/2/22
 
 Original Assignment Description: 
 
